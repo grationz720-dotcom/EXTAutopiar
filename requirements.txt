@@ -2,3 +2,5 @@ vkbottle
 python-dotenv
 sqlmodel
 sqlalchemy
+redis
+asyncpg
